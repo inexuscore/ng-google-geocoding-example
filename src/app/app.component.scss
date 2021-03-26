@@ -1,0 +1,10 @@
+::ng-deep .google_map_container {
+  width: 100%;
+  display: block;
+
+  .map-container {
+    width: 100% !important;
+    height: 300px !important;
+    border-radius: 4px !important;
+  }
+}
